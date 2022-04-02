@@ -5,7 +5,7 @@ public class Main {
     // Players.Player
     
     // Players.Human
-    static String playerName = "";
+    static String playerName = "John";
     static int playerPoints = 0;
 
     // Players.Computer
