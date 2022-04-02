@@ -87,6 +87,10 @@ public class GameMaster {
 
         return result;
     }
+
+    private void test(){
+
+    }
 }
 
 // Players.Player players[] = new Players.Player[10]
